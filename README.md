@@ -1,2 +1,2 @@
-# florexmc
-xd
+# FLOREXMC
+kapali butun lisanslar 
